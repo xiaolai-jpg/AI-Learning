@@ -4,3 +4,6 @@
 -学习python
 -学习C++
 -学习机器学习
+##Learing Plan
+-Git
+-AI
