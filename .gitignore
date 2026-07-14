@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ==========================
+# AI Learning
+# ==========================
+
+# VS Code
+.vscode/
+
+# TensorBoard
+runs/
+
+# Model
+*.pth
+*.pt
+*.ckpt
+
+# Dataset
+datasets/
+
+# Training outputs
+outputs/
+checkpoints/
